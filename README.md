@@ -1,6 +1,6 @@
 # Annoying-Java - What it is about?
 
-This library computes the Approximate Nearest Neighbor, it was implemented in Java and was heavily inspired by [Annoy Library] (https://github.com/spotify/annoy). This library was implemented for my personal learning.
+This library computes the Approximate Nearest Neighbor, it was implemented in Java and was heavily inspired by [Annoy Library](https://github.com/spotify/annoy). This library was implemented for my personal learning.
 ___
 
 # How does it works?
